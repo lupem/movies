@@ -1,0 +1,21 @@
+.center-block{
+	margin: 0 auto;
+	display: block;
+}
+.img-responsive{
+	max-width: 100%;
+}
+
+#deadpool .img-deadpool{
+	border: 1px solid #C7C7C7;
+	margin: 32px 20px;
+	padding: 20px;
+}
+
+#info {
+	margin: 0px 20px;
+}
+
+.rojo{
+	color: #FF0004;
+}
